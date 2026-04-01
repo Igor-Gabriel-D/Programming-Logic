@@ -6,4 +6,4 @@ grade3 = float(input("Third grade: "))
 
 mean = (grade1 + grade2 + grade3) / 3
 
-print("Arithmetic mean:",mean)
+print(f"Arithmetic mean: {mean}")
